@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740417475130",
+    "project_id": "flexit-b1712",
+    "storage_bucket": "flexit-b1712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740417475130:android:b58fa2c23dfafc0b071b03",
+        "android_client_info": {
+          "package_name": "com.example.flexit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm3u_C9nugxrC6-0obuborO6d1Qv5MI8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
