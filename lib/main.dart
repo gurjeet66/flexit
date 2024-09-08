@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
         routes: {
           '/': (context) => HomePage(),
           '/workout-list': (context) => WorkoutListPage(),
-          '/chart': (context) => Chartpage(), // Define route for WorkoutListPage
+          '/chart': (context) => ChartPage(), // Define route for WorkoutListPage
         },
       ),
     );

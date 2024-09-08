@@ -81,14 +81,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.8"
-  decimal:
+  equatable:
     dependency: transitive
     description:
-      name: decimal
-      sha256: "7e6735d63c3fdeff3d20b60fde7fd974145110fef414256dd53d5cfc4c1fa1b4"
+      name: equatable
+      sha256: c2b87cb7756efdf69892005af546c56c0b5037f54d2a88269b4f347a505e3ca2
       url: "https://pub.dev"
     source: hosted
-    version: "1.5.0"
+    version: "2.0.5"
   fake_async:
     dependency: transitive
     description:
@@ -137,19 +137,19 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.17.5"
+  fl_chart:
+    dependency: "direct main"
+    description:
+      name: fl_chart
+      sha256: "0cc8f51e421f2a2113ea437a3c9c618e2dfec1c261fb177d433cc3573ba9bb91"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.40.6"
   flutter:
     dependency: "direct main"
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_charts:
-    dependency: "direct main"
-    description:
-      name: flutter_charts
-      sha256: "513c05398f629b7173c9339510e6720a96f4221675057d1e0d459f8958e90662"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.3.1"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -296,14 +296,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "6.1.2"
-  rational:
-    dependency: transitive
-    description:
-      name: rational
-      sha256: "49ba0eb1a7b0d39358998cbbd4d4a384382a83ac02f433aefc567853c84ed975"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.2.1"
   shared_preferences:
     dependency: "direct main"
     description:
@@ -413,14 +405,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.7.0"
-  tuple:
-    dependency: transitive
-    description:
-      name: tuple
-      sha256: a97ce2013f240b2f3807bcbaf218765b6f301c3eff91092bcfa23a039e7dd151
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.0.2"
   vector_math:
     dependency: transitive
     description:
