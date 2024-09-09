@@ -26,9 +26,4 @@ cd workout-tracker
 - flutter pub get
 - flutter run
 
-id: Unique identifier for the workout.
-name: Name of the workout.
-imagePath: Path to the workout image.
-date: The date the workout was completed.
-isCompletedToday: Boolean indicating if the workout is completed for the day.
-value: An optional value associated with the workout (e.g., reps, duration).
+
